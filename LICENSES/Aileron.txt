@@ -1,0 +1,11 @@
+Aileron
+
+The Aileron font package supplied with this repository does not include a
+standalone license file. The embedded font metadata states:
+
+No Rights Reserved.
+
+The embedded font metadata also identifies the typeface as Aileron by Sora
+Sagano and includes the source URL:
+
+http://www.dotcolon.net
